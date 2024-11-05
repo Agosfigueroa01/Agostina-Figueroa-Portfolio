@@ -76,7 +76,7 @@
         {
             "label": "Get Started ",
             "altText": "Get Started ",
-            "url": "/home",
+            "url": "/section",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
