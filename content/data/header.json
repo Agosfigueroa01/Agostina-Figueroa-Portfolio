@@ -84,7 +84,7 @@
         },
         {
             "label": "View My Work",
-            "url": "/section.4",
+            "url": "/section",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
