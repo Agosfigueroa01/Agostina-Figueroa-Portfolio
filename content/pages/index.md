@@ -35,7 +35,7 @@ sections:
         type: Link
     media:
       url: /images/Logo WEB UI.PNG
-      altText: Unblock your team boost your time to production preview
+      altText: 'Agostina Figueroa, Web UI Developer'
       elementId: ''
       type: ImageBlock
     badge:
