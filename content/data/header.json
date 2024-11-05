@@ -40,7 +40,7 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Project Types",
             "altText": "Dropdown",
             "links": [
                 {
