@@ -41,7 +41,7 @@
         },
         {
             "label": "Project Types",
-            "altText": "Dropdown",
+            "altText": "Project Types",
             "links": [
                 {
                     "label": "Dropdown item",
