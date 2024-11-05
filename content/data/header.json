@@ -76,7 +76,7 @@
         {
             "label": "Get Started ",
             "altText": "Get Started ",
-            "url": "",
+            "url": "Featured Projects",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
