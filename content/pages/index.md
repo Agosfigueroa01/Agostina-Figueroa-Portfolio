@@ -24,7 +24,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Contact Me
         altText: ''
         url: /
         showIcon: true
