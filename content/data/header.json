@@ -88,7 +88,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "altText": "View My Work"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
