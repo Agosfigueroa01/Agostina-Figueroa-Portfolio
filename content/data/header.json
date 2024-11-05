@@ -83,7 +83,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "View My Work",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
