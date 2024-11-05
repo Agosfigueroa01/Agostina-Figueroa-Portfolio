@@ -15,7 +15,7 @@ sections:
       each endeavor.
 
     actions:
-      - label: Get started
+      - label: Explore Projects
         altText: ''
         url: /
         showIcon: false
