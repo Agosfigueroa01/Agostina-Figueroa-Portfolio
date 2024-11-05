@@ -8,10 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: A space where innovation meets execution
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Welcome to my portfolio website, a comprehensive showcase of my
+      professional work and projects. Here, you will find a detailed
+      presentation of my skills, expertise, and the creative processes behind
+      each endeavor.
+
     actions:
       - label: Get started
         altText: ''
